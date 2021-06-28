@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="\\dds080\\reportrh" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\noubaio\\Documents\\Visual\ Studio\ 2013\\Projects\\AD_RH\\AD_RH\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\noubaio\\Documents\\Visual\ Studio\ 2013\\Projects\\AD_RH\\AD_RH\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
